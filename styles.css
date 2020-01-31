@@ -1,0 +1,48 @@
+body{
+    font-size:14px 
+}
+
+nav{
+    background-color: #004163;
+    height: 132px;
+    top: 0;
+    position: relative;
+    height: 80px;
+}
+li{
+
+    list-style-type: none;
+    position: relative;
+}
+
+li input{
+    border-radius: 15px;
+    width: 250px;
+    height: 40px;
+    border: 2px solid #FFFFFF;
+    border-radius: 43px;
+    padding: 0 15px 0 70px;
+   
+}
+li i.fa{
+    position: absolute;
+    top: 10px;
+    left: 25px;
+    width: 21px;
+    height: 21px;
+    color: #000;
+    font-size: 20px
+
+}
+li a{
+    color: #FFFFFF;
+}
+li a:hover{
+    color: #FFFFFF;
+}
+.button{
+    border-radius: 25px;
+    /* border: 2px solid white; */
+    right:120px;
+}
+
